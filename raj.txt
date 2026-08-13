@@ -1,0 +1,5 @@
+CSS - Cascading style sheet
+
+Internal(style tag), Inline(style property), external(creating external css file)
+
+Box sizing - margins , paddings

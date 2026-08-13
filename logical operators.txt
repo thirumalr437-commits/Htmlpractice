@@ -1,0 +1,56 @@
+logical operators
+-----------------
+
+&&------ both side should be true ----------- true & true -------- true
+
+|| ------- any one can be true ------------- true || false ------- true
+
+! ----------- upside down of AND -------- true ! true ----------- false
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+comparison operator
+-------------------
+
+
+>, >=, <, <=, !=
+
+=   ----------------- assign a value to the variable
+
+==   ---------------- check both the value are true ----------- 10 == 10
+
+===   ----------------- check both the value and the data type ----------- 10 === "10"
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+DOM(Document object model)
+
+
+HTML-------------output
+
+
+JS-------|(DOM)--------output
+
+
+
+
+Dom                                                     |             Virtual dom is the lighter version of the actual dom
+
+refresh every data on the screen                        |             refresh only the particular data that need to be updated
+
+rendering of the entire screen takes some time          |             refreshing the particular data need less time so it is faster then the actual dom
+
+
+
+
+
+static ------ hardcore or manual declaration in the code
+
+dynamic ------ Datas may change from JavaScript or backend ( database )
