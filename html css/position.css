@@ -1,0 +1,8 @@
+.ex{
+    color: red;
+    position: absolute;
+    top: 100px;
+}
+.demo{
+    position: relative;
+}

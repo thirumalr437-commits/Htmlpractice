@@ -1,0 +1,19 @@
+.demo{
+    color: blue;
+    margin-left: 630px;
+    margin-top: 200px;
+    font-family: cursive;
+    font-size: xxx-large;
+}
+.ex{
+    color: white;
+    margin-left: 630px;
+    border: 3px solid black;
+    width: 140px;
+    padding: 10px;
+}
+.image{
+    background-image: url(./images/ninja.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+}

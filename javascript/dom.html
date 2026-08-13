@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h1>HELLO WORLD</h1>
+    <button onclick="demo()">SHOW</button>
+    <button onclick="ex()">HIDE</button>
+    <h1 id="demo"></h1>
+    <h2 id="ex"></h2>
+
+    <script>
+
+        function demo(){
+
+        document.getElementById("demo").textContent="WELCOME"
+         document.getElementById("ex").textContent="TO JS"
+        }
+
+        function ex(){
+            document.getElementById("demo").textContent=""
+         document.getElementById("ex").textContent=""
+        }
+
+    </script>
+</body>
+</html>
